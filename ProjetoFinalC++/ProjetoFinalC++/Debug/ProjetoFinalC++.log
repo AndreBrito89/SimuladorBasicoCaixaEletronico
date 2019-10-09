@@ -1,0 +1,10 @@
+﻿  Menu.cpp
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(213): warning C4715: 'Menu::escolheSaqueCP': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(195): warning C4715: 'Menu::escolheSaqueCC': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(280): warning C4715: 'Menu::escolheDepositoCC': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(298): warning C4715: 'Menu::escolheDepositoCP': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(367): warning C4715: 'Menu::escolheSaldoCC': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(387): warning C4715: 'Menu::escolheSaldoCP': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(499): warning C4715: 'Menu::escolheRendimentoCC': nem todos os caminhos de controle retornam um valor
+c:\users\andre\source\repos\projetofinalc++\projetofinalc++\menu.cpp(518): warning C4715: 'Menu::escolheRendimentoCP': nem todos os caminhos de controle retornam um valor
+  ProjetoFinalC++.vcxproj -> C:\Users\andre\source\repos\ProjetoFinalC++\Debug\ProjetoFinalC++.exe
